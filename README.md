@@ -2,9 +2,8 @@
 
 This repository contains my SQL learning journey, organized by topics.
 ## 📁 Folder Structure
-- `01_STE/` – Creating tables and defining constraints  
-- `02_View/` – Inserting sample data
-
+- `01_CTE/` – Common Table Expression
+- `02_View/` – Use of View
 - ## 🧩 Tools Used
 -  SQL Server Management Studio
 
